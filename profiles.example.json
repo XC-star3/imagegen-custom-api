@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "openai": {
+      "base_url": "https://api.openai.com/v1",
+      "api_key_env": "OPENAI_API_KEY",
+      "model": "gpt-image-2",
+      "timeout": 180
+    },
+    "custom": {
+      "base_url": "https://your-provider.example/v1",
+      "api_key_env": "MY_IMAGE_API_KEY",
+      "model": "gpt-image-2",
+      "timeout": 180
+    }
+  }
+}

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Imagegen Custom API"
+  short_description: "Generate and edit images with selectable API endpoints"
+  default_prompt: "Use $imagegen-custom-api to generate or edit an image with my chosen API profile."

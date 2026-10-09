@@ -1,0 +1,13 @@
+profiles.json
+.env
+.env.*
+!.env.example
+*api-key*.txt
+*secret*.txt
+__pycache__/
+*.py[cod]
+.venv/
+outputs/
+output/
+work/
+tmp/
